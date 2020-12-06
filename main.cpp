@@ -1,6 +1,12 @@
 /******************************************************************************
 C_STL_Library_Rivera
 *******************************************************************************/
+/////Jorge Rivera shopping list (vectors)
+///Created on November 10,2020       
+// Dr. Tyson/Tarrant County Community College
+//The purpose of this assigment was to teach some basic in classes, vectors 
+//This program illustrates basic concepts that will be used in C++ intro course
+
 #include <iostream>
 #include <vector>
 #include <algorithm> 
